@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://verdent-63553158.zappy5.app/sitemap.xml

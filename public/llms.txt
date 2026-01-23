@@ -1,0 +1,57 @@
+# Verdent — Generative Engine Optimization Map
+
+> A בריאות דיגיטלית / טכנולוגיה רפואית business.
+
+---
+
+## Pages
+
+### דף הבית
+https://verdent-63553158.zappy5.app
+קבל חוות דעת שנייה מקצועית לתוכנית הטיפול הדנטלית שלך עם Verdent. אבחון AI בלתי תלוי לבדיקת הצעות מחיר והמלצות טיפול.
+
+### השירותים שלנו
+https://verdent-63553158.zappy5.app/services
+גלה את מגוון השירותים של Verdent: בדיקת תוכנית טיפול, השוואת מחירים, חוות דעת שנייה לטיפול שיניים ועוד. אבחון AI מקצועי למטופלים.
+
+### אודות
+https://verdent-63553158.zappy5.app/about
+הכירו את Verdent - חברת הבריאות הדיגיטלית שמספקת אבחון AI בלתי תלוי לטיפולי שיניים. המשימה שלנו: להעניק למטופלים שקיפות ושקט נפשי.
+
+### צור קשר
+https://verdent-63553158.zappy5.app/contact
+צור קשר עם Verdent לקבלת חוות דעת שנייה לטיפול שיניים. מלא טופס קצר ונחזור אליך תוך 24 שעות עם ניתוח מקיף של תוכנית הטיפול שלך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://verdent-63553158.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://verdent-63553158.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://verdent-63553158.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Verdent
+Verdent is a business in the בריאות דיגיטלית / טכנולוגיה רפואית industry.
+
+## Target Audience
+מטופלים שקיבלו הצעת מחיר יקרה לטיפול שיניים ורוצים חוות דאת שנייה
+
+## Industry
+בריאות דיגיטלית / טכנולוגיה רפואית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://verdent-63553158.zappy5.app/sitemap.xml
+- **Robots.txt**: https://verdent-63553158.zappy5.app/robots.txt
